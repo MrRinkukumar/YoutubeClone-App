@@ -3,9 +3,9 @@
 " A YoutubeClone application "
 This is a Youtubeclone application which is build by using the react advance concept. You can clone this repo and make changes in initial changes and add in your repo . I not clam any copyright.
 # Getting Started with Create React App
-`git clone ` [https://github.com/MrRinkukumar/YoutubeClone-App.git]
-`cd ` [/YoutubeClone-App]
-`npm i `
+`git clone ` [https://github.com/MrRinkukumar/YoutubeClone-App.git] \
+`cd ` [/YoutubeClone-App]\
+`npm i `\
 
 ## Available Scripts
 ### `npm start`
